@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/node-ddos](https://github.com/2lambda123/node-ddos)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|12/29/23 <br/>Report generated|
+|20<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -149,9 +149,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -163,6 +163,7 @@ Full tech stack [here](/techstack.md)
 |[request](https://www.npmjs.com/request)|v2.81.0|12/15/15|David Wee |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
 |[semver](https://www.npmjs.com/semver)|v5.3.0|02/06/19|rook2pawn |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
 |[tap-spec](https://www.npmjs.com/tap-spec)|v4.1.2|06/02/18|rook2pawn |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v4.10.1|02/06/19|rook2pawn |MIT|N/A|
 
 <br/>
 <div align='center'>
